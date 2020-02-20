@@ -14,3 +14,6 @@ Webportal: die Plattform für die Informationen über die Prävention vom 2019-n
 
 ## 1. Zusammenarbeit Methode: Open Source
 
+Vielen Dank für die Unterstützung aller. Derzeit haben wir schon über 2000 Zusammenarbeiter.
+
+Während der Zusammenarbeit nehmen wir ein hierarchisches Managementmodell nicht an. Jeder ist gleich und wird nach Aufgaben gruppiert.
